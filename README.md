@@ -25,6 +25,12 @@ Download WAMP/MAMP/LAMP depend on your system, dowonload this project or `git cl
 
 * Developer: [Yan Kang](https://github.com/lightbluecactus)
 
+## Designer and Developer Notes
+
+* [Dev notes](https://docs.google.com/document/d/1byNCzzVlnN8jxsj5NAWJMHZvQvCY9O-vnOPKXQ_c1CA/edit)
+
+* [Des notes]()
+
 ## License
 
 MIT License
