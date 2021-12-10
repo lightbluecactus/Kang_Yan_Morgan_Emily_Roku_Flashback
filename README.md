@@ -29,7 +29,7 @@ Download WAMP/MAMP/LAMP depend on your system, dowonload this project or `git cl
 
 * [Dev notes](https://docs.google.com/document/d/1byNCzzVlnN8jxsj5NAWJMHZvQvCY9O-vnOPKXQ_c1CA/edit)
 
-* [Des notes]()
+* [Des notes](https://docs.google.com/document/d/1WCdOB9JkhGE9ifvRSdNNvNxnYRQiZf3e3G8Pm40MttE/edit?usp=sharing)
 
 ## License
 
